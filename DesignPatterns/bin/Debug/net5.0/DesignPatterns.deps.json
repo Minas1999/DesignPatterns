@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesignPatterns/1.0.0": {
+        "dependencies": {
+          "FactoryMethod": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.dll": {}
+        }
+      },
+      "FactoryMethod/1.0.0": {
+        "runtime": {
+          "FactoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
