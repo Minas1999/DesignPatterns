@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PbmZbzqMWx+IpowpmdBhl/d/5CXU+Bi1NMz+cM3tgD6bUIbRXZ+dLhn1OcIUocaQFYnrqS+Wulhfc12zzElkLg==",
+  "dgSpecHash": "ME4aXUmXJbvDZIPTiXc5oFPVOogOEjkZJeVBkae63Qnfs8XcGBpEVhY3fDUOZL+VKj36XN3Uwvuov1DRYXSp1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

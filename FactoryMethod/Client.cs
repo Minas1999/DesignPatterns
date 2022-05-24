@@ -30,11 +30,5 @@ namespace FactoryMethod
                 "but it still works.\n" + creator.SomeOperation());
             // ...
         }
-
-
-        public void aaa(Creator creator)
-        {
-
-        }
     }
 }

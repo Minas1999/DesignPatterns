@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {}
+    "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\DesignPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
+    "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\DesignPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "projectUniqueName": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\DesignPatterns\\DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+        "projectPath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\DesignPatterns\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\minas.sandadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {
-                "projectPath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj"
+              "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj": {
+                "projectPath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {
+    "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+        "projectPath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\minas.sandadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minas.sandadze\\source\\repos\\DesignPatterns\\FactoryMethod\\obj\\",
+        "outputPath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns3\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
