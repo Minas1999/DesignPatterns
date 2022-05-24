@@ -21,3 +21,15 @@ C:\Users\minas.sandadze\Source\Repos\DesignPatterns3\FactoryMethod\obj\Debug\net
 C:\Users\minas.sandadze\Source\Repos\DesignPatterns3\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
 C:\Users\minas.sandadze\Source\Repos\DesignPatterns3\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
 C:\Users\minas.sandadze\Source\Repos\DesignPatterns3\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\minas.sandadze\Source\Repos\DesignPatterns99\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb

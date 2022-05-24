@@ -10,19 +10,15 @@ namespace FactoryMethod
     {
         public void Main()
         {
-            Console.WriteLine("App: Launched with the ConcreteCreator1.");
-            ClientCode(new ConcreteCreator1());
+            Console.WriteLine("App: Launched with the PhoneCreator.");
+            ClientCode(new PhoneCreator());
 
             Console.WriteLine("");
 
-            Console.WriteLine("App: Launched with the ConcreteCreator2.");
-            ClientCode(new ConcreteCreator2());
+            Console.WriteLine("App: Launched with the PrinterCreator.");
+            ClientCode(new PrinterCreator());
         }
 
-        // Клиентский код работает с экземпляром конкретного создателя, хотя и
-        // через его базовый интерфейс. Пока клиент продолжает работать с
-        // создателем через базовый интерфейс, вы можете передать ему любой
-        // подкласс создателя.
         public void ClientCode(Creator creator)
         {
             // ...

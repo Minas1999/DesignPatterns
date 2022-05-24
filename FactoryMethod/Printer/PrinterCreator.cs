@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
-    internal class ConcreteCreator1 : Creator
+    class PrinterCreator : Creator
     {
         public override IProduct FactoryMethod()
         {
-            return new ConcreteProduct1();
+            return new Printer();
         }
     }
 }
