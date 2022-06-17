@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QcnTt4G30uhJZ1YChbjkK9Wt1MnB4T2mIdm7/Yq2yIzHWM/dau/Dy+0SxjxAQ66awgyxDeryGMPdVPqimGxYUQ==",
+  "dgSpecHash": "jXDoQ3evMaFO/+kYkaGrFlyMtfADooJhWATQDxg2XbEduHbF/ZvgaBkoHw4VOGg9y5iuE5iiyK39vY4T8EPBOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minas.sandadze\\Source\\Repos\\DesignPatterns99\\DesignPatterns\\DesignPatterns.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\minas.sandadze\\Desktop\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minas.sandadze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
