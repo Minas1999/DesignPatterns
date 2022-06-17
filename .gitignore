@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+DesignPatterns/obj/Debug/net5.0/DesignPatterns.assets.cache
+DesignPatterns/obj/Debug/net5.0/DesignPatterns.assets.cache
+*.cache
